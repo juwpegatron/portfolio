@@ -1,19 +1,16 @@
 # JUWEN LIE
 
-Batam, Indonesia | +62 813-6419-3579 | juwen12006@gmail.com
+Batam, Indonesia | juwen12006@gmail.com
 linkedin.com/in/juwenlie | github.com/juwpegatron | bio.site/juw
 
 ## R&D MECHANICAL ENGINEER
 
-Mechanical DVT and NPI engineer for consumer electronics (IP cameras, CCTV, Wi-Fi), with an
-aerospace engineering background. Product-minded and systems-driven: leads cross-functional
-teams and root-cause analysis, owns programs from EVT to mass production, and builds software
-and AI systems on the side.
+Mechanical DVT and NPI engineer for consumer electronics (IP cameras, CCTV, Wi-Fi), with an aerospace engineering background. Product-minded and systems-driven: leads cross-functional teams and root-cause analysis, owns programs from EVT to mass production, and builds software and AI systems on the side.
 
 ## EXPERIENCE
 
 ### R&D Mechanical Engineer
-**PEGATRON / PT Pegatron Technology Indonesia** — Batam, Indonesia | Nov 2023 – Present
+**PEGATRON / PT Pegatron Technology Indonesia — Batam, Indonesia** | Nov 2023 – Present
 
 - Lead mechanical DVT for IPX6/IPX7 IP camera and CCTV programs — water leakage, focus/SFR, lens-holder, antenna and cable routing, acoustics, and spring/pin mechanisms — from EVT through mass production.
 - Manage 6–12 month EVT-to-MP programs and 2–3 concurrent Wi-Fi projects (1–3 SKUs each), keeping schedule, quality and cost on track.
@@ -26,7 +23,7 @@ and AI systems on the side.
 - International R&D assignment at PEGATRON, Suzhou, China.
 
 ### Mechanical & Fabrication Engineer
-**PT Anugerah Tirta Indonesia** — Indonesia | Aug 2023 – Oct 2023
+**PT Anugerah Tirta Indonesia — Indonesia** | Aug 2023 – Oct 2023
 
 - Coordinated water-tank projects, schedules, BOM and stock across Indonesia, plus pipe installation for new housing.
 - Prepared Bill of Quantity cost calculations, trash-rack cutting plans, and installation-cost analysis.
@@ -38,7 +35,7 @@ and AI systems on the side.
 **Bachelor's Degree, Aerospace, Aeronautical and Astronautical Engineering** | 2018 – 2022
 
 - Academic honors; GPA 3.847/4.0 (Rank 5 of 76).
-- Research: preconditioning method for 1D Euler equations on a diverging nozzle (benchmarked against Roe, Van Leer, Steger-Warming); research proposal on numerical simulation of two-phase flow in geothermal wells.
+- Research: preconditioning method for 1D Euler equations on a diverging nozzle (vs Roe, Van Leer, Steger-Warming); research proposal on numerical simulation of two-phase flow in geothermal wells.
 
 ## SKILLS
 
